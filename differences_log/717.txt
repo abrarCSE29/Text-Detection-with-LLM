@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[2].price: (Gemini Response) 5.000 != (Dataset Detection) 5,000

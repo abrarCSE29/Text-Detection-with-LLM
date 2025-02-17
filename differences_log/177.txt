@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) HIE KOCOK != (Dataset Detection) MIE KOCOK

@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Cheese Tart Original
+Premium != (Dataset Detection) Cheese Tart Original
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) FL Mille Crepes -
+Damier SLC != (Dataset Detection) FL Mille Crepes -

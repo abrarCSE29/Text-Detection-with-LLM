@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) Hubert chicken capers
+fettucine != (Dataset Detection) fettucine Hubert chicken capers

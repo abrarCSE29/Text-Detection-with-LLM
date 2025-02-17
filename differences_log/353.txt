@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Soft Ori 3 Top
+Top Oreo
+Top-Dreo
+Top Banana != (Dataset Detection) Soft Ori 3 Top

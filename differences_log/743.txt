@@ -1,0 +1,5 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Ayam Asam Manis K != (Dataset Detection) Ayam Asam Manis M
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Ikan Gurame h  != (Dataset Detection) Ikan Gurame Tahu M
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) Pucai 3 Telor != (Dataset Detection) Pocai 3 Telor M
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) Sapo Tahu Sea H != (Dataset Detection) Sapo Tohu Sea M
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) Udang Gandum.L != (Dataset Detection) Udang Gandum L

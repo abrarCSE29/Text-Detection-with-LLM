@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) SINGLE Cone Strawberry Cheese Run Raisin != (Dataset Detection) SINGLE Cone
+Value mismatch at total.total_price: (Gemini Response) 88,620 != (Dataset Detection) 88.620

@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) ICE LATTE != (Dataset Detection) GoFood Beragam - ICE LAT TE
+Key missing in first JSON: gt_parse.menu[0].cnt

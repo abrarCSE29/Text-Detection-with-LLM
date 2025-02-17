@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) NS GR TELOR KEBOLI != (Dataset Detection) NS GR TELOR KEBULI
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 21,212 != (Dataset Detection) 27,272

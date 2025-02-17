@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) 113.SIMANGOSONG != (Dataset Detection) I13.SIMANGOSONG
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) CT06.TEA O HOT R. != (Dataset Detection) CT06.TEA 0 HOT R.
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) CT06.TEA O ICE R. != (Dataset Detection) CT06.TEA 0 ICE R.

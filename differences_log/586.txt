@@ -1,0 +1,1 @@
+Value mismatch at total.total_price: (Gemini Response) 103.000 != (Dataset Detection) 103,000

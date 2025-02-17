@@ -1,0 +1,5 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) GOCHUJANG
+SAMGYEOPSAL != (Dataset Detection) GOCHUJANG SAMGYEOPSAL
+Key missing in first JSON: gt_parse.menu[2].cnt

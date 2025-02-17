@@ -1,0 +1,8 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[2].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[3].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[4].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[5].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Key missing in first JSON: gt_parse.menu[6].cnt
+Value mismatch at total.total_price: (Gemini Response) 53.020 != (Dataset Detection) 53,020

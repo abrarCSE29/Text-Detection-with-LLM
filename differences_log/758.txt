@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) 1 x
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) HAZELNUT CHOCO MT ( R) != (Dataset Detection) HAZELNUT CHOCO III (R)

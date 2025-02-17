@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) COLGA FF+R+2KB != (Dataset Detection) DL+GA+FF+R+2RB
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) UP Brink 16 != (Dataset Detection) UP Drink 16
+Value mismatch at total.total_price: (Gemini Response) 90.000 != (Dataset Detection) 

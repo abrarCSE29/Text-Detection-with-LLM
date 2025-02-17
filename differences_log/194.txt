@@ -1,0 +1,9 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) BUDS CALMING TUMMY RUB CREAM
+30ML(TOILETRIES) BU350003 != (Dataset Detection) BUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES)
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) BUDS PRECIOUS NEWBORN CREAM
+75ML(TOILETRIES) BU350012 != (Dataset Detection) BUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES)
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) BUDS PRECIOUS NEWBORN HEAD TO TOE
+CLEANSER 250ML(TOILETRIES) BU350009 != (Dataset Detection) BUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES)
+Key missing in first JSON: gt_parse.menu[2].cnt

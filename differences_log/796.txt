@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Choconut Bun != (Dataset Detection) 1066-Choconut Bun
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Plastic Bag Small != (Dataset Detection) 6001-Plastic Bag Small

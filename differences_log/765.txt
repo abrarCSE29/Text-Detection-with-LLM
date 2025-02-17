@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Viet Milk Coffee +Ice +M != (Dataset Detection) Viet Milk Coffee

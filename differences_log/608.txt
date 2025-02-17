@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) DAGING SAPI +B. TELOR BESAR != (Dataset Detection) DAGING SAPI

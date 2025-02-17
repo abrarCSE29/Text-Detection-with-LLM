@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) BASO TAHU KUETIAU != (Dataset Detection) BASO TAHU KWETIAU
+Value mismatch at total.total_price: (Gemini Response) 47,499 != (Dataset Detection) TOTAL 47,499

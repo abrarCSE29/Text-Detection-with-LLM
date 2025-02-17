@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) SKE82285LB
+BK000004
+SKECHERS GIRLS NO COLOR, 4 != (Dataset Detection) SKECHERS GIRLS NO COLOR, 4

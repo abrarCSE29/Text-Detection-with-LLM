@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) LA12392NVS
+GARISH PC
+HP66000 != (Dataset Detection) GARISH PC
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) PLASTIK BAG::000 PC != (Dataset Detection) PLASTIK BAG;: 000 PC
+Key missing in first JSON: gt_parse.menu[1].cnt

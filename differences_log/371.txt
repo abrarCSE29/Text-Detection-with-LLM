@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) S-Ovaltine Macchiat 25% != (Dataset Detection) S-Ovaltine Macchiat
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) S-Hazelnut Milk Tea 70% != (Dataset Detection) S-Hazelnut Milk Tea

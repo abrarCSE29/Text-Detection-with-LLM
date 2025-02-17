@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Viet Latte +S +Ice != (Dataset Detection) ['TAKEOUT(1):', 'Viet Latte']
+Value mismatch at total.total_price: (Gemini Response) 19.000 != (Dataset Detection) Rp 19.000

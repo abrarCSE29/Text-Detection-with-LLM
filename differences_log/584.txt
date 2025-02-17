@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) SURIMI-SATSUMA AGE VEGETABLE != (Dataset Detection) SURIMI - SATSUMA AGE VEGETABLE

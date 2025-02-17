@@ -1,0 +1,3 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) None
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) PC BIC != (Dataset Detection) 1 PC BIC

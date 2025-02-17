@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) BASO KUETIAU != (Dataset Detection) BASO KWETIAU
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 8.000 != (Dataset Detection) 8,000

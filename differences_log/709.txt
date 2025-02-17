@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) JINSENG
+SAMGYETANG != (Dataset Detection) JINSENG SAMGYETANG
+Value mismatch at gt_parse.menu[8].nm: (Gemini Response) BIR BINTANG BOTOL
+(620ml) != (Dataset Detection) BIR BINTANG BOTOL ( )

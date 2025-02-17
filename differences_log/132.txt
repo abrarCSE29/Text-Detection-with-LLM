@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) ZAI. Milk Choco Egg Frozen 60gr != (Dataset Detection) ZAI.Milk Choco Egg Frozen 60gr

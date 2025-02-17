@@ -1,0 +1,2 @@
+List length mismatch at gt_parse.menu
+Value mismatch at total.total_price: (Gemini Response) 83.716 != (Dataset Detection) 83,716

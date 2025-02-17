@@ -1,0 +1,14 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) KUE CUBIT OVO/
+SKIPPY != (Dataset Detection) KUE CUBIT OVO/ SKIPPY
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) DODOT CUCU
+COKLAT != (Dataset Detection) DODOT CUCU COKLAT
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) CHOCOLATE MILK
+SHAKE != (Dataset Detection) CHOCOLATE MILK SHAKE
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) T. TARIK GREENTEA
+DINGIN != (Dataset Detection) T. TARIK GREENTEA DINGIN
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) CHOCOLATE MILK
+SHAKE != (Dataset Detection) CHOCOLATE MILK SHAKE
+Value mismatch at gt_parse.menu[7].nm: (Gemini Response) ICED CAPPUCINO
+JELLY != (Dataset Detection) ICED CAPPUCINO JELLY
+Value mismatch at gt_parse.menu[8].nm: (Gemini Response) T. TARIK GREENTEA
+DINGIN != (Dataset Detection) T. TARIK GREENTEA DINGIN

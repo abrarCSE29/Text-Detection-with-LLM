@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) I SPECIAL SBL
+MATAH != (Dataset Detection) I SPECIAL SBL MATAH
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) I ROA GORENG
+SPC != (Dataset Detection) I ROA GORENG SPC

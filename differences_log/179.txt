@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) I09.NG NANAS != (Dataset Detection) 109.NG NANAS
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) DE13.PSANG IJO MOM != (Dataset Detection) DE13.PSANG IJO MDM

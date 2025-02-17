@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Choco Bun != (Dataset Detection) 1001-Choco Bun
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 22.000 != (Dataset Detection) 22,000
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Plastic Bag Small != (Dataset Detection) 6001-Plastic Bag Small
+Value mismatch at total.total_price: (Gemini Response) 22.000 != (Dataset Detection) 22,000

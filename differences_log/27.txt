@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) MEGA
+CUP MEGA
+BBQ != (Dataset Detection) MEGA
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) Rp30,000 != (Dataset Detection) Rp 30,000
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at total.total_price: (Gemini Response) Rp30,000 != (Dataset Detection) Rp 30,000

@@ -1,0 +1,2 @@
+Value mismatch at total.total_price: (Gemini Response) 22.000 != (Dataset Detection) 22,000
+Key missing in first JSON: gt_parse

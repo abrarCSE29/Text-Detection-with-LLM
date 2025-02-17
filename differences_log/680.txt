@@ -1,0 +1,2 @@
+Key missing in first JSON: gt_parse.menu[0].price
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) Burung Gr IN != (Dataset Detection) Buruno Gr IN

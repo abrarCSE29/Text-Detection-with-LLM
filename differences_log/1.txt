@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) PEPPER AUS WELL DONE != (Dataset Detection) PEPPER AUS
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) WAGYU RIBEYE MEDIUM WELL != (Dataset Detection) WAGYU RIBEYE

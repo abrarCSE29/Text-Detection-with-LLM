@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) ANOUSH DBL CHS BURG != (Dataset Detection) AMOUSH DBL CHS BURG
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 97,000.00 != (Dataset Detection) 99,000.00

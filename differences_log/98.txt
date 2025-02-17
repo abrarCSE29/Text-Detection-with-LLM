@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 5400 != (Dataset Detection) 5,400
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) CMPN TROPICANA.CH075 != (Dataset Detection) CMPN TROPICANA.CHO75
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 5500 != (Dataset Detection) 5,500
+Value mismatch at gt_parse.menu[2].price: (Gemini Response) 15000 != (Dataset Detection) 15,000

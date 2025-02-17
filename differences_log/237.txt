@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) THAI ICED TEA LESS ICE != (Dataset Detection) THAI ICED TEA

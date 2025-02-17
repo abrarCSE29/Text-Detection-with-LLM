@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) MUFFIN BLUEBERRY != (Dataset Detection) PL. MUFFIN BLUEBERRY
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) ABON AYAM != (Dataset Detection) RB. ABON AYAM
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) COKLAT COFFEE != (Dataset Detection) RB. COKLAT COFFEE
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) RED BEAN != (Dataset Detection) RB. RED BEAN

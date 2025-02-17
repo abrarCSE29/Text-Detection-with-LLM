@@ -1,0 +1,11 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) S-Fresh Lemon Lime
+100% != (Dataset Detection) S-Fresh Lemon Lime
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) S-Fresh Lemon Lime
+0% != (Dataset Detection) S-Fresh Lemon Lime
+Value mismatch at gt_parse.menu[2].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) S-Fresh Lemon Lime
+Bubbles
+100%
+Less Ice != (Dataset Detection) S-Fresh Lemon Lime

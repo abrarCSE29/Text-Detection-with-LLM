@@ -1,0 +1,7 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) KOPI SUSU
++DINGIN != (Dataset Detection) KOPI SUSU
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) KOPI SUSU
++DINGIN != (Dataset Detection) KOPI SUSU
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) NASI GORENG
++SPESIAL != (Dataset Detection) NASI GORENG
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response)  KACANG H != (Dataset Detection) BAKPIA KACANG H

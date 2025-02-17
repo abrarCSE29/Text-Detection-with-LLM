@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) IKAN GURAME MED
+SOP IKAN != (Dataset Detection) IKAN GURAME MED
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) CUMI.GR TEPUNG != (Dataset Detection) CUMI GR TEPUNG

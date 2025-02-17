@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) SHEEAT ICE TEA != (Dataset Detection) SWEEAT ICE TEA
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 16,900 != (Dataset Detection) 16,800
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) ORED MILK BLEND != (Dataset Detection) OREO MILK BLEND
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 29,900 != (Dataset Detection) 28,800
+Value mismatch at gt_parse.menu[2].price: (Gemini Response) 39,900 != (Dataset Detection) 39,800
+Value mismatch at gt_parse.menu[4].price: (Gemini Response) 23,900 != (Dataset Detection) 23,800

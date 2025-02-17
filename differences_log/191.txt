@@ -1,0 +1,8 @@
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 8,800 != (Dataset Detection) 8.800
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) QTELA KRP/TMPE OR155 != (Dataset Detection) QTELA KRP/TMPE ORI55
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[3].cnt
+Key missing in first JSON: gt_parse.menu[4].cnt
+Key missing in first JSON: gt_parse.menu[5].cnt

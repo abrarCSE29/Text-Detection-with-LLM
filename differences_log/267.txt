@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) BBQ Chicken - Pedas != (Dataset Detection) BBQ Chicken
+Value mismatch at total.total_price: (Gemini Response) 41,000 != (Dataset Detection) 41.000

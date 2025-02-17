@@ -1,0 +1,6 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) SPECTRA DISPOSABLE BREAST PADS
+(IRIS) / BP-0001 (BREASTPADS) SP200031 != (Dataset Detection) SPECTRA BREAST DISPOSABLE PADS (IRIS) / BP-0001 (BREASTPADS)
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) MUSTELA BABY OIL 100ML MU240036 != (Dataset Detection) MUSTELA BABY OIL 100ML
+Key missing in first JSON: gt_parse.menu[2].cnt

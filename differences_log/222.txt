@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) CAPUCINO MEDIUM
+Gula Murni 100% != (Dataset Detection) APUCINO MEDIUM
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 18.182 != (Dataset Detection) 18,182
+Key missing in first JSON: gt_parse.menu[0].cnt

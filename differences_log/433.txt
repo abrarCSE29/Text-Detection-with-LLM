@@ -1,0 +1,5 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) TOPI BAITAN UDON != (Dataset Detection) TORI BAITAN UDON
+Key missing in first JSON: gt_parse.menu[0].cnt
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[3].cnt

@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) T.CREAM M 21 != (Dataset Detection) T. CREAM M 21

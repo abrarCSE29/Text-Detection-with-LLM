@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) Chicken HCC, 1Pcs != (Dataset Detection) Chicken HCC, 1PCS

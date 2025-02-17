@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) TIKET != (Dataset Detection) RALPH BREAKS THE INTERNET : WR
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 60.000 60 != (Dataset Detection) 3.600.000
+Key missing in first JSON: gt_parse.menu[0].cnt

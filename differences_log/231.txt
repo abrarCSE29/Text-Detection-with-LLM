@@ -1,0 +1,8 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 2 != (Dataset Detection) 2X
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 3 != (Dataset Detection) 3X
+Value mismatch at gt_parse.menu[2].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[3].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[4].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[5].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[6].cnt: (Gemini Response) 1 != (Dataset Detection) 1X
+Value mismatch at gt_parse.menu[7].cnt: (Gemini Response) 1 != (Dataset Detection) 1X

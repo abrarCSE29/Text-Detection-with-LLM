@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) WHOP JR 15K != (Dataset Detection) WHDP JR 15K
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Takolway Charge != (Dataset Detection) TakeQuay Charge
+Key missing in first JSON: gt_parse.menu[1].cnt

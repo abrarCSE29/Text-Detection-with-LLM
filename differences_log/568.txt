@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Large != (Dataset Detection) Large 1
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Polo != (Dataset Detection) Polo 1
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) *Plastik Kcl != (Dataset Detection) *PlastiK Kcl

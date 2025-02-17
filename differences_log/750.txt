@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[8].price: (Gemini Response) null != (Dataset Detection) None
+Value mismatch at gt_parse.menu[14].nm: (Gemini Response) Tahu Sandwich != (Dataset Detection) Tahu Sandwidh
+Value mismatch at gt_parse.menu[15].price: (Gemini Response) null != (Dataset Detection) None

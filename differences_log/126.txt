@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) 133 Round Wagyu (1gr) != (Dataset Detection) Round Wagyu ( 1gr )
+Key missing in first JSON: gt_parse.menu[0].cnt

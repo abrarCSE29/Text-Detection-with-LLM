@@ -1,0 +1,10 @@
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) Cheong Fer Udg != (Dataset Detection) Cheong Fen Udg
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) Sie May Kpting != (Dataset Detection) Sio May Kpting
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) Kwo Tie Jala? != (Dataset Detection) Kwo Tie Jala2
+Value mismatch at gt_parse.menu[11].nm: (Gemini Response) Ns Pong Kj Sp != (Dataset Detection) Ns Pgng Kj Sp
+Value mismatch at gt_parse.menu[12].nm: (Gemini Response) Kwt Polos Hdn != (Dataset Detection) Kwt Polos Mdn
+Value mismatch at gt_parse.menu[13].nm: (Gemini Response) N Aym Hainan Jl != (Dataset Detection) N Aym Hainam Jl
+Value mismatch at gt_parse.menu[14].nm: (Gemini Response) Pot Chinese Tea != (Dataset Detection) Chinese Tea
+Value mismatch at gt_parse.menu[15].nm: (Gemini Response) 6ls Ice Lemon Tea != (Dataset Detection) Ice Lemon Tea
+Value mismatch at gt_parse.menu[16].nm: (Gemini Response) Bt1 Mineral Water != (Dataset Detection) Mineral Water
+Value mismatch at total.total_price: (Gemini Response) 726,500 != (Dataset Detection) 726,495

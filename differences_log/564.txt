@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) JPN SUS V != (Dataset Detection) JPR SUS U
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) LCHESES != (Dataset Detection) L C MESES
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[2].price

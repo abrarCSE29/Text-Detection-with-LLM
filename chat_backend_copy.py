@@ -51,13 +51,13 @@ generation_config = {
                             },
                         ),
                     ),
-                    "total": content.Schema(
-                        type=content.Type.OBJECT,
-                        properties={
-                                "total_price": content.Schema(type=content.Type.STRING),
-                            },
-                    ),
                 },
+            ),
+            "total": content.Schema(
+                type=content.Type.OBJECT,
+                properties={
+                        "total_price": content.Schema(type=content.Type.STRING),
+                    },
             ),
         },
     ),
@@ -103,7 +103,7 @@ def process_all_images():
         image_number = int(re.search(pattern, image_path).group(1))
         now = datetime.now()
         timestamp = now.strftime("%Y-%m-%d_%H-%M-%S")  # Format: YYYY-MM-DD_HH-MM-SS
-        log_response_path = os.path.join(response_directory, f"image_{image_number}.json")
+        log_response_path = os.path.join(response_directory, f"{image_number}.json")
 
         # Save response to a text file
         with open(log_response_path, "w",errors='ignore') as file:

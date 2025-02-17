@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) ['TRIPPLE CHEESE', '1']
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) TRIPPLE CHEESE != (Dataset Detection) 

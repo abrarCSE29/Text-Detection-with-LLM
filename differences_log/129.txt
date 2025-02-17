@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 4 != (Dataset Detection) *4 Pcs
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Cheese Tart
+Box of 4
+PP Carrier != (Dataset Detection) Cheese Tart
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 116000.00 != (Dataset Detection) Rp 116000.00
+Value mismatch at total.total_price: (Gemini Response) 116000.00 != (Dataset Detection) Rp 116000.00

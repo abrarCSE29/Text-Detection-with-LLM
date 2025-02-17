@@ -1,0 +1,7 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[3].cnt
+Key missing in first JSON: gt_parse.menu[4].cnt
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) PLASTIC BAG != (Dataset Detection) PLASTIC BAG ME
+Key missing in first JSON: gt_parse.menu[5].cnt

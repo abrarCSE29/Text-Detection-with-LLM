@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) (TW)MIE GORENG AYAM != (Dataset Detection) (TW) MIE GORENG AYAM

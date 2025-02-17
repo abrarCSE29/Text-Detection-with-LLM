@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Es Kopi Susu Sudirma != (Dataset Detection) Es Kopi Susu Sudirma n
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 18.000 != (Dataset Detection) 90.000
+Key missing in first JSON: gt_parse.menu[0].cnt

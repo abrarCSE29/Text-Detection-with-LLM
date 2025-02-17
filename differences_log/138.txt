@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[2].cnt: (Gemini Response) 1.00 != (Dataset Detection) 1.00.
+Value mismatch at gt_parse.menu[4].price: (Gemini Response) 48000 != (Dataset Detection) .48000
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) HELL CREAM HAMBURG 0 != (Dataset Detection) #F11 CREAM HAMBURG 0
+Value mismatch at total.total_price: (Gemini Response) 422.730 != (Dataset Detection) 422,730

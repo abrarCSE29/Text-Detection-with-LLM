@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Hot Dog w Cheese != (Dataset Detection) Hot Dog W Cheese

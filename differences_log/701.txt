@@ -1,0 +1,5 @@
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) CHULPAN CHEESE != (Dataset Detection) CHULPAN CHEESE DAK GALBI
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) MINERAL WATER != (Dataset Detection) * MINERAL WATER
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) CHUM CHURUM != (Dataset Detection) CHUM CHURUM PEACH
+Value mismatch at gt_parse.menu[7].nm: (Gemini Response) PREMIUM != (Dataset Detection) PREMIUM YANGNYEOM GALBISAL
+Value mismatch at gt_parse.menu[10].nm: (Gemini Response) CHEESE != (Dataset Detection) CHEESE GAMJAJEON

@@ -1,0 +1,7 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Disney Taartjes Siram Coklat != (Dataset Detection) 3190-Disney Taartjes Siram Coklat
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Plastik Tentengan Kecil != (Dataset Detection) 1245-Plastik Tentengan Kecil
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 0,00 != (Dataset Detection) 0.00
+Value mismatch at gt_parse.menu[2].cnt: (Gemini Response) 1 != (Dataset Detection) x1
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) Mini Glazed Croissant (isi 5 pcs) != (Dataset Detection) 4032-Mini Glazed Croissant (isi 5 pcs)

@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Roti Kelapa != (Dataset Detection) 1009-Roti Kelapa
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 8.000,00 x2 != (Dataset Detection) 16.000,00
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Plastik Tentengan Kecil != (Dataset Detection) 1245-Plastik Tentengan Kecil
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 0,00 x1 != (Dataset Detection) 0,00
+Key missing in first JSON: gt_parse.menu[1].cnt

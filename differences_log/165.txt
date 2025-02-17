@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) A Chicken
++Monster
++A +Cheese != (Dataset Detection) A Chicken

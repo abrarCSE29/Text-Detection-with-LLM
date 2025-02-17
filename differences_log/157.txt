@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 2 != (Dataset Detection) 2X
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) S-Matcha Macchiato 100%, Less Ice != (Dataset Detection) S-Matcha Macchiato
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 2 != (Dataset Detection) 2X
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) S-Ovaltine Macchiat Less Ice 100% != (Dataset Detection) S-Ovaltine Macchiat

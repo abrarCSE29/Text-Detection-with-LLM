@@ -1,0 +1,7 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) IKAN GURAME MED
+SOP IKAN != (Dataset Detection) IKAN GURAME MED SOP IKAN
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) CUMI GR JUNJAN != (Dataset Detection) CUMI GR JUNJAN =*MEDIUM*=
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) CUMI.GR TEPUNG != (Dataset Detection) CUMI GR TEPUNG =*MEDIUM*=
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) AGSIO TH PC JMR != (Dataset Detection) AGSIO TH PC JMR =*MEDIUM*=
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) POCAI BWG PUTIH != (Dataset Detection) POCAI BWG PUTIH =*MEDIUM*=
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) LUMPIA UDG PREM != (Dataset Detection) LUMPIA UDG PREM =*MEDIUM*=

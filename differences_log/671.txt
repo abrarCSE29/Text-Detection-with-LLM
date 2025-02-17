@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Lychee Tea +Ice +H != (Dataset Detection) Lychee Tea
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 20.000 != (Dataset Detection) 20,000

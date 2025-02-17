@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) BBQ Chicken
+- Tidak Pedas != (Dataset Detection) BBQ Chicken

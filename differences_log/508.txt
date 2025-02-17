@@ -1,0 +1,8 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) ROTI NANAS != (Dataset Detection) 1013-ROTI NANAS
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) BOLU GULUNG MOCCA PTG != (Dataset Detection) 3025-BOLU GULUNG MOCCA PTG
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) LEMPER IKAN != (Dataset Detection) 5014-LEMPER IKAN
+Key missing in first JSON: gt_parse.menu[2].cnt
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) PLASTIK TENTENGAN KECIL != (Dataset Detection) 1245-PLASTIK TENTENGAN KECIL
+Key missing in first JSON: gt_parse.menu[3].cnt

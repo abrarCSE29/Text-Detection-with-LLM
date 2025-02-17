@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) N AYM PENYET SAMBAL M != (Dataset Detection) N AYM PENYET SAMBAL MATAH

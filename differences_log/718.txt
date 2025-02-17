@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) DINE FOR 2 BALI FISH & CHIPS DFT JAPANESE FISH & CHIPS != (Dataset Detection) DINE FOR 2
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) DINE FOR 2 DANISH FISH & CHIPS DF NEW YORK FISH & CHIPS != (Dataset Detection) DINE FOR 2

@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].cnt: (Gemini Response) 1 != (Dataset Detection) 1x
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Kopi Susu Sudirman Ice != (Dataset Detection) Kopi Susu Sudirman
+Value mismatch at gt_parse.menu[1].cnt: (Gemini Response) 1 != (Dataset Detection) 1x

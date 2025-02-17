@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Spaghetti Bini Muda (Bolognese) DINE IN != (Dataset Detection) Spaghetti Bini Muda (Bol ognese) - DINE IN
+Key missing in first JSON: gt_parse.menu[0].cnt

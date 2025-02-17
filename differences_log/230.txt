@@ -1,0 +1,11 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[3].cnt
+Key missing in first JSON: gt_parse.menu[4].cnt
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) OCHA DINGIN
+(REFILL) != (Dataset Detection) OCHA DINGIN
+Key missing in first JSON: gt_parse.menu[5].cnt
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) SUNDUBU
+CHIGE S != (Dataset Detection) SUNDUBU
+Key missing in first JSON: gt_parse.menu[6].cnt

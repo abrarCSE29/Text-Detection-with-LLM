@@ -1,0 +1,5 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Lidah Asap Sambal Lu'at ( R) != (Dataset Detection) Lidah Asap Sambal Lu'at ( R )
+Key missing in first JSON: gt_parse.menu[1].cnt
+Key missing in first JSON: gt_parse.menu[2].cnt
+Key missing in first JSON: gt_parse.menu[3].cnt

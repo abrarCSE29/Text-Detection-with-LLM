@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Kyoto Choco Mochi != (Dataset Detection) 3002-Kyoto Choco Mochi
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Sakura Mochi != (Dataset Detection) 3001-Sakura Mochi
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) Plastic Bag Small != (Dataset Detection) 6001-Plastic Bag Small
+Key missing in first JSON: gt_parse.menu[2].cnt

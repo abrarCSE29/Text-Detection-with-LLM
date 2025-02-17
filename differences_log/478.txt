@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].price: (Gemini Response) 127.270 != (Dataset Detection) Rp. 127.270
+Value mismatch at gt_parse.menu[1].price: (Gemini Response) 15.910 != (Dataset Detection) Rp. 15.910
+Value mismatch at gt_parse.menu[2].price: (Gemini Response) 15.910 != (Dataset Detection) Rp. 15.910
+Value mismatch at gt_parse.menu[3].price: (Gemini Response) 25.454 != (Dataset Detection) Rp. 25.454
+Value mismatch at gt_parse.menu[4].price: (Gemini Response) 25.455 != (Dataset Detection) Rp. 25.455
+Value mismatch at total.total_price: (Gemini Response) 230.999 != (Dataset Detection) Rp. 230.999

@@ -1,0 +1,4 @@
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) IKAN GURAME MED
+SOP IKAN != (Dataset Detection) IKAN GURAME MED SOP IKAN
+Value mismatch at gt_parse.menu[10].nm: (Gemini Response) CHINESE TEA
+KWAN'IM != (Dataset Detection) CHINESE TEA KWAN'IM

@@ -1,0 +1,1 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) SAM DA SOO MINERAL WATER != (Dataset Detection) SAM DA S00 MINERAL WATER

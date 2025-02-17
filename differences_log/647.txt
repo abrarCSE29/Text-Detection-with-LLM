@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Plastic B Small != (Dataset Detection) -Plastic Big Small
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) Chokoreto Cookies != (Dataset Detection) -Chokoreto Cookies
+Key missing in first JSON: gt_parse.menu[1].cnt
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) Corn Flakes. Cookies != (Dataset Detection) -Corn Flakes Cookies
+Key missing in first JSON: gt_parse.menu[2].cnt

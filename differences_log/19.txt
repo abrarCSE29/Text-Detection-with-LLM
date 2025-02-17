@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) GURAME FILLET M
+ASAM MANIS != (Dataset Detection) GURAME FILLET M ASAM MANIS

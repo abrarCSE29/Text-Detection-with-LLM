@@ -1,0 +1,8 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) UDG GR TLUR ASIN != (Dataset Detection) UDG GR TLUR ASIN =*MEDIUM*=
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) SAPO TH SEAFOOD != (Dataset Detection) SAPO TH SEAFOOD =*MEDIUM*=
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) CUMI GR JUNJAN != (Dataset Detection) CUMI GR JUNJAN =*MEDIUM*=
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) BIHUN GORENG JJ != (Dataset Detection) BIHUN GORENG JJ =*MEDIUM*=
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) OYONG 3 TELOR != (Dataset Detection) OYONG 3 TELOR =*MEDIUM*=
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) GURAME FILLET M
+ASAM MANIS != (Dataset Detection) GURAME FILLET M ASAM MANIS
+Value mismatch at gt_parse.menu[7].price: (Gemini Response) 0 != (Dataset Detection) None

@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[3].price: (Gemini Response) 75,000 != (Dataset Detection) 150,000
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) Oriental "Ketjap". Pork Rice != (Dataset Detection) Oriental "Ketjap" Pork Rice

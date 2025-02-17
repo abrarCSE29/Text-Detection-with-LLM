@@ -1,0 +1,6 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) LP5201
+BL1 M != (Dataset Detection) BL1 M LW
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) LP5978
+WH3 M != (Dataset Detection) WH3 M LW
+Value mismatch at gt_parse.menu[2].nm: (Gemini Response) LP5978
+RES M != (Dataset Detection) RE5 M LW

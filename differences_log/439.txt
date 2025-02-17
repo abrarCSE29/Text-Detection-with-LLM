@@ -1,0 +1,2 @@
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) FlvDark 0.3 != (Dataset Detection) FlyDark 0.3
+Value mismatch at gt_parse.menu[6].nm: (Gemini Response) Paulaner Plov != (Dataset Detection) PaulanerP1

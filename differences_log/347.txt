@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Lumpia Kit Tahu (3) != (Dataset Detection) Lumpia Klt Tahu (3)
+Value mismatch at gt_parse.menu[1].nm: (Gemini Response) SM Udang & Ayim (4) != (Dataset Detection) SM Udang & Aym (4)
+Value mismatch at gt_parse.menu[3].nm: (Gemini Response) Brokoli Bug Putih != (Dataset Detection) Brokoli Bwg Putih

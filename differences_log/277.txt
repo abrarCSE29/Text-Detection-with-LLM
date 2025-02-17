@@ -1,0 +1,6 @@
+Key missing in first JSON: gt_parse.menu[0].cnt
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) *MINERAL WATER != (Dataset Detection) * MINERAL WATER
+Value mismatch at gt_parse.menu[5].nm: (Gemini Response) EL KEUN != (Dataset Detection) EL KEUN HWANGTAE SUNDUBU (TUKBEGI)
+Value mismatch at gt_parse.menu[7].nm: (Gemini Response) YANG NYEOM SAM != (Dataset Detection) YANG NYEOM SAM GYEOP SAL
+Value mismatch at gt_parse.menu[8].nm: (Gemini Response) GYEOP SAL PREMIUM != (Dataset Detection) PREMIUM YANGNYEOM GALBISAL
+Value mismatch at gt_parse.menu[9].nm: (Gemini Response) YANGNYEOM GALBISAL JEKSEOK YANG NYEOM GUI != (Dataset Detection) JEKSEOK YANG NYEOM GUI

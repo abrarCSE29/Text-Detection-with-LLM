@@ -1,0 +1,3 @@
+Value mismatch at gt_parse.menu[0].nm: (Gemini Response) Mineral Water (S) != (Dataset Detection) Mineral water (s)
+Value mismatch at gt_parse.menu[4].nm: (Gemini Response) French Fries. FF != (Dataset Detection) French Fries + FF
+Value mismatch at total.total_price: (Gemini Response) 140,000 != (Dataset Detection) 140.000
