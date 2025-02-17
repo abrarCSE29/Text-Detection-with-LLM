@@ -4,4 +4,5 @@ images/
 temp/
 .env
 dataset_detections/
-differences_log/
+differences_log
+image_metadata/
